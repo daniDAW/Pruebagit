@@ -6,7 +6,7 @@ public class pruebagit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println ("A ver si nos gusta Git");
+		System.out.println ("Modificamos el archivo");
 	}
 
 }
