@@ -6,7 +6,7 @@ public class pruebagit {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println ("Modificamos el archivo desde GitHub");
+		System.out.println ("Lo cambiamos");
 	}
 
 }
